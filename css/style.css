@@ -1,0 +1,114 @@
+.nav-link:hover {
+    color: white !important;
+}
+
+.nav-item{
+    margin-right: 5px;
+}
+
+.jumbotron{
+    background-image: url("../img/back.png");
+    height: auto;
+}
+
+.jum{
+    width: 20em;
+    height: 20em;
+    vertical-align: 0;
+}
+.carousel-item {
+    height: auto;
+    max-height: 500px;
+    margin-top: 5px;
+}
+
+.w-100 {
+    width: auto;
+    max-width: 300px !important;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+}
+
+a.carousel-control-next,
+a.carousel-control-prev {
+    color: #424040 !important;
+}
+
+.showcase {
+    width: auto;
+    height: 300px;
+    margin-left: 20%;
+    margin-bottom: 25px;
+}
+
+.sizing {
+    height: 500px;
+    width: 100%;
+}
+
+.row {
+    margin-top: 30px;
+}
+
+.padd {
+    padding-bottom: 28px;
+}
+
+.btn {
+    background-color: #343a40 !important;
+    color: white;
+}
+
+.btn:focus,
+.btn:active {
+    box-shadow: none !important;
+}
+
+.logo {
+    width: 25px;
+    height: 25px;
+}
+
+.card-footer {
+    background-color: #343a40;
+    color: #bdc2c7; 
+}
+
+
+.right {
+    float: right;
+}
+
+.productimg {
+    width: 80%;
+    height: 400px;
+    /* margin-top: 10%; */
+    
+}
+
+.content {
+    /* margin-top: 3%; */
+    /* border-left: 3px solid #343a40; */
+    height: 400px;
+    text-align: justify;
+}
+
+
+.featureimg {
+    height: 450px;
+    width: auto;
+}
+
+.contentimg {
+    height: 400px;
+    margin-bottom: 10%;
+}
+
+.justify{
+    text-align: justify;
+}
+
+#product{
+    margin-bottom: 10%;
+}
